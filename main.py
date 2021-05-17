@@ -73,8 +73,6 @@ def quantum_teleportation(NUMBER_OF_QUBITS, EMITTER_SPEED, RECEIVER_SPEED, BUFFE
 
     receive_flip_and_read()
 
-    teleportation_circuit.x(0)
-
     odd_indexes = []
     for i in range(0, NUMBER_OF_QUBITS):
         if i%2 == 0:
