@@ -1,4 +1,4 @@
-# Quantum realtime communication (A no-communication theorem study)
+# Quantum realtime communication (A no-communication theorem experiment)
 
 Small personal project I'm using to experiment with "quantum realtime communication"
 
